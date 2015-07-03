@@ -1,0 +1,151 @@
+[
+    {
+        "name": "abap",
+        "words": ["abap"]
+    },
+    {
+        "name": "ada",
+        "words": ["ada"]
+    },
+    {
+        "name": "assembly",
+        "words": ["assembly"]
+    },
+    {
+        "name": "c",
+        "words": ["c"]
+    },
+    {
+        "name": "c#",
+        "words": ["c#"]
+    },
+    {
+        "name": "c++",
+        "words": ["c++"]
+    },
+    {
+        "name": "cobol",
+        "words": ["cobol"]
+    },
+    {
+        "name": "d",
+        "words": ["d"]
+    },
+    {
+        "name": "dart",
+        "words": ["dart"]
+    },
+    {
+        "name": "erlang",
+        "words": ["erlang"]
+    },
+    {
+        "name": "f#",
+        "words": ["f#"]
+    },
+    {
+        "name": "flash",
+        "words": ["actionscript", "flash"]
+    },
+    {
+        "name": "fortran",
+        "words": ["fortran"]
+    },
+    {
+        "name": "go",
+        "words": ["go"]
+    },
+    {
+        "name": "groovy",
+        "words": ["groovy"]
+    },
+    {
+        "name": "haskell",
+        "words": ["haskell"]
+    },
+    {
+        "name": "java",
+        "words": ["java"]
+    },
+    {
+        "name": "javascript",
+        "words": ["javascript", "js"]
+    },
+    {
+        "name": "lisp",
+        "words": ["lisp"]
+    },
+    {
+        "name": "lua",
+        "words": ["lua"]
+    },
+    {
+        "name": "matlab",
+        "words": ["matlab"]
+    },
+    {
+        "name": "ml",
+        "words": ["ml"]
+    },
+    {
+        "name": "objective-c",
+        "words": ["objective-c", "obj-c", "objc"]
+    },
+    {
+        "name": "pascal",
+        "words": ["pascal"]
+    },
+    {
+        "name": "perl",
+        "words": ["perl"]
+    },
+    {
+        "name": "php",
+        "words": ["php"]
+    },
+    {
+        "name": "prolog",
+        "words": ["prolog"]
+    },
+    {
+        "name": "python",
+        "words": ["python"]
+    },
+    {
+        "name": "r",
+        "words": ["r"]
+    },
+
+    {
+        "name": "ruby",
+        "words": ["ruby"]
+    },
+    {
+        "name": "scala",
+        "words": ["scala"]
+    },
+    {
+        "name": "scheme",
+        "words": ["scheme", "racket"]
+    },
+    {
+        "name": "scratch",
+        "words": ["scratch"]
+    },
+    {
+        "name": "sql",
+        "words": ["sql"]
+    },
+    {
+        "name": "swift",
+        "words": ["swift"]
+    },
+    {
+        "name": "vhdl",
+        "words": ["vhdl"]
+    },
+    {
+        "name": "visual basic",
+        "words": ["visualbasic", "vb"]
+    }
+]
